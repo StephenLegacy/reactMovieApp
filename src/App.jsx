@@ -36,7 +36,7 @@ const App = () => {
     <Router>
       <div style={{ padding: "2rem", maxWidth: "1200px", margin: "0 auto" }}>
         <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
-          <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>🎬 My Movie App</h1>
+          <h1 style={{ textAlign: "center", marginBottom: "2rem" }}>🎬WatchPawa</h1>
         </Link>
 
         <Routes>
